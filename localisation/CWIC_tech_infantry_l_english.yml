@@ -1,0 +1,112 @@
+﻿l_english:
+ 
+ inf_equip_tooltip:0 "§C참고: 이 기술은 직접적인 보너스나 새로운 장비를 제공하지는 않지만, 새로운 결정을 내릴 수 있게 해 매우 좋은 보너스로 이어질 수 있습니다.§!."
+
+ ####공용화기
+ 
+ team_weapons_1:0 "공용화기 I"
+ team_weapons_1_short:0 "공용화기 I"
+ team_weapons_2:0"공용화기 II"
+ team_weapons_2_short:0 "공용화기 II"
+ team_weapons_3:0 "공용화기 III"
+ team_weapons_3_short:0 "공용화기 III"
+ team_weapons_4:0 "공용화기 IV"
+ team_weapons_4_short:0 "공용화기 IV"
+ team_weapons_5:0 "공용화기 V"
+ team_weapons_5_short:0 "공용화기 V"
+ 
+ ####개인화기
+ 
+ squad_weapons_1:0 "개인화기 I"
+ squad_weapons_1_short:0 "개인화기 I"
+ squad_weapons_2:0 "개인화기 II"
+ squad_weapons_2_short:0 "개인화기 II"
+ squad_weapons_3:0 "개인화기 III"
+ squad_weapons_3_short:0 "개인화기 III"
+ squad_weapons_4:0 "개인화기 IV"
+ squad_weapons_4_short:0 "개인화기 IV"
+ squad_weapons_5:0 "개인화기 V"
+ squad_weapons_5_short:0 "개인화기 V"
+ 
+ #### 특수전 화기
+ 
+ specialist_1:0 "특수전 화기 I"
+ specialist_1_short:0 "특수전 화기 I"
+ specialist_2:0 "특수전 화기 II"
+ specialist_2_short:0 "특수전 화기 II"
+ specialist_3:0 "특수전 화기 III"
+ specialist_3_short:0 "특수전 화기 III"
+ specialist_4:0 "특수전 화기 IV"
+ specialist_4_short:0 "특수전 화기 IV"
+ specialist_5:0 "특수전 화기 V"
+ specialist_5_short:0 "특수전 화기 V"
+
+ ####Ammunition and explosives
+ 
+ ammo_explosives_1:0 "폭발물 및 탄약 I"
+ ammo_explosives_1_short:0 "폭발물 및 탄약 I"
+ ammo_explosives_2:0 "폭발물 및 탄약 II"
+ ammo_explosives_2_short:0 "폭발물 및 탄약 II"
+ ammo_explosives_3:0 "폭발물 및 탄약 III"
+ ammo_explosives_3_short:0 "폭발물 및 탄약 III"
+ ammo_explosives_4:0 "폭발물 및 탄약 IV"
+ ammo_explosives_4_short:0 "폭발물 및 탄약 IV"
+ ammo_explosives_5:0 "폭발물 및 탄약 V"
+ ammo_explosives_5_short:0 "폭발물 및 탄약 V"
+ 
+ ####Manpats
+ 
+ manpats_1:0 "대전차개인화기 I"
+ manpats_1_short:0 "대전차개인화기 I"
+ manpats_1_desc:0 "§R참고: 이 기술은 직접적인 보너스나 새로운 장비를 제공하지는 않지만, 새로운 결정을 내릴 수 있게 해 매우 좋은 보너스로 이어질 수 있습니다.."
+ manpats_2:0 "대전차개인화기 II"
+ manpats_2_short:0 "대전차개인화기 II"
+ manpats_2_desc:0 "§R참고: 이 기술은 직접적인 보너스나 새로운 장비를 제공하지는 않지만, 새로운 결정을 내릴 수 있게 해 매우 좋은 보너스로 이어질 수 있습니다.."
+ manpats_3:0 "대전차개인화기 III"
+ manpats_3_short:0 "대전차개인화기 III"
+ manpats_3_desc:0 "§R참고: 이 기술은 직접적인 보너스나 새로운 장비를 제공하지는 않지만, 새로운 결정을 내릴 수 있게 해 매우 좋은 보너스로 이어질 수 있습니다.."
+ manpats_4:0 "대전차개인화기 IV"
+ manpats_4_short:0 "대전차개인화기 IV"
+ manpats_4_desc:0 "§R참고: 이 기술은 직접적인 보너스나 새로운 장비를 제공하지는 않지만, 새로운 결정을 내릴 수 있게 해 매우 좋은 보너스로 이어질 수 있습니다.."
+ manpats_5:0 "대전차개인화기 V"
+ manpats_5_short:0 "대전차개인화기 V"
+ manpats_5_desc:0 "§R참고: 이 기술은 직접적인 보너스나 새로운 장비를 제공하지는 않지만, 새로운 결정을 내릴 수 있게 해 매우 좋은 보너스로 이어질 수 있습니다.."
+ infantry_manpats_tt:0 "§C보병의 대전차 능력을 향상하기 위해 대전차개인화기의 공개 결정을 해제할 수 있습니다.§!"
+ 
+ ####Manpads
+ 
+ hmg_1:0 "AA 중기관총"
+ hmg_1_short:0 "AA 중기관총"
+ hmg_1_desc:0 "§R참고: 이 기술은 직접적인 보너스나 새로운 장비를 제공하지는 않지만, 새로운 결정을 내릴 수 있게 해 매우 좋은 보너스로 이어질 수 있습니다.."
+ manpads_1:0 "대공개인화기  I"
+ manpads_1_short:0 "대공개인화기 I"
+ manpads_1_desc:0 "§Y참고: 이 기술은 직접적인 보너스나 새로운 장비를 제공하지는 않지만, 새로운 결정을 내릴 수 있게 해 매우 좋은 보너스로 이어질 수 있습니다..§!"
+ manpads_2:0 "대공개인화기  II"
+ manpads_2_short:0 "대공개인화기 II"
+ manpads_2_desc:0 "§R참고: 이 기술은 직접적인 보너스나 새로운 장비를 제공하지는 않지만, 새로운 결정을 내릴 수 있게 해 매우 좋은 보너스로 이어질 수 있습니다.."
+ manpads_3:0" 대공개인화기  III"
+ manpads_3_short:0 "대공개인화기 III"
+ manpads_3_desc:0 "§R참고: 이 기술은 직접적인 보너스나 새로운 장비를 제공하지는 않지만, 새로운 결정을 내릴 수 있게 해 매우 좋은 보너스로 이어질 수 있습니다.."
+ manpads_4:0 "대공개인화기  IV"
+ manpads_4_short:0 "대공개인화기 IV"
+ manpads_4_desc:0 "§R참고: 이 기술은 직접적인 보너스나 새로운 장비를 제공하지는 않지만, 새로운 결정을 내릴 수 있게 해 매우 좋은 보너스로 이어질 수 있습니다.."
+ infantry_manpads_tt:0 "§C보병의 대공 능력을 향상하기 위해 대공개인화기의 공개 결정을 해제할 수 있습니다.§!"
+
+ ####보호장비 Gear 
+ 
+ protection_equip_1:0 "개인보호장비 I"
+ protection_equip_1_short:0 "보호장비 I"
+ protection_equip_1_desc:0 "§R참고: 이 기술은 직접적인 보너스나 새로운 장비를 제공하지는 않지만, 새로운 결정을 내릴 수 있게 해 매우 좋은 보너스로 이어질 수 있습니다.."
+ protection_equip_2:0 "개인보호장비 II"
+ protection_equip_2_short:0 "보호장비 II"
+ protection_equip_2_desc:0 "§R참고: 이 기술은 직접적인 보너스나 새로운 장비를 제공하지는 않지만, 새로운 결정을 내릴 수 있게 해 매우 좋은 보너스로 이어질 수 있습니다.."
+ protection_equip_3:0 "개인보호장비 III"
+ protection_equip_3_short:0 "보호장비 III"
+ protection_equip_3_desc:0 "§R참고: 이 기술은 직접적인 보너스나 새로운 장비를 제공하지는 않지만, 새로운 결정을 내릴 수 있게 해 매우 좋은 보너스로 이어질 수 있습니다.."
+ protection_equip_4:0 "개인보호장비 IV"
+ protection_equip_4_short:0 "보호장비 IV"
+ protection_equip_4_desc:0 "§R참고: 이 기술은 직접적인 보너스나 새로운 장비를 제공하지는 않지만, 새로운 결정을 내릴 수 있게 해 매우 좋은 보너스로 이어질 수 있습니다.."
+ protection_equip_5:0 "개인보호장비 V"
+ protection_equip_5_short:0 "보호장비 V"
+ protection_equip_5_desc:0 "§R참고: 이 기술은 직접적인 보너스나 새로운 장비를 제공하지는 않지만, 새로운 결정을 내릴 수 있게 해 매우 좋은 보너스로 이어질 수 있습니다.."
+ infantry_protection_tt:0 "§C보병의 생존성을 높이기 위해 보병장비 및 방어복, 전투복에 대한 공개 결정을 해제할 수 있습니다.§!"

@@ -1,0 +1,108 @@
+﻿l_english:
+ WMD_LIST_DESC:0 "-[?.warhead_cost] ICBMs\n-[?.nuke_cost] Nukes"
+ WMD_LEVEL_DESC:0 "Level 1"
+ EFFECT_CHANGE_LAW_lgbt_policies:0 "Changes LGBT Policies to "$NAME|Y$", causing ($DESC$)."
+ EFFECT_CHANGE_LAW_foreign_aggression_policy:0 "Change our Foreign Aggression Policy to "$NAME|Y$", causing ($DESC$)"
+ EFFECT_CHANGE_LAW_veterans_policy:0 "Change our Policy toward Veterans to "$NAME|Y$", causing ($DESC$)"
+ EFFECT_CHANGE_LAW_media_laws:0 "Change our Policy toward Medias to "$NAME|Y$", causing ($DESC$)"
+ EFFECT_CHANGE_LAW_military_funding:0 "Change our Military Funding to "$NAME|Y$", causing ($DESC$)"
+ EFFECT_CHANGE_LAW_education_policy:0 "Change our Education Policy to "$NAME|Y$", causing ($DESC$)"
+ EFFECT_CHANGE_LAW_economic_policy:0 "Change our Economic Policy to "$NAME|Y$", causing ($DESC$)"
+ EFFECT_CHANGE_LAW_healthcare_policy:0 "Change our Healthcare Policy to "$NAME|Y$", causing ($DESC$)"
+ EFFECT_CHANGE_LAW_welfare_policy:0 "Change our Welfare Policy to "$NAME|Y$", causing ($DESC$)"
+ EFFECT_CHANGE_LAW_labour_policies:0 "Change our Labour Policies to "$NAME|Y$", causing ($DESC$)"
+ EFFECT_CHANGE_LAW_enviromental_policies:0 "Change our Environmental Policies to "$NAME|Y$", causing ($DESC$)"
+ EFFECT_CHANGE_LAW_cultural_policies:0 "Change our Cultural Policies to "$NAME|Y$", causing ($DESC$)"
+ EFFECT_CHANGE_LAW_military_policies:0 "Change our Military Policies to "$NAME|Y$", causing ($DESC$)"
+ EFFECT_CHANGE_LAW_trade_policy:0 "Change our Trade Policy to "$NAME|Y$", causing ($DESC$)"
+
+ ##### ROLLOUTS #####
+ rollout_equipment_category:0 "신 장비 공개"
+ rollout_equipment_category_desc:0 "여기서 당신이 얻어낸 장비를 부대에 원격 설치할 수 있습니다. 일부 기술은 탄약과 값비싼 보병장비 기술과 같은 이익을 얻기 위해 원격 공개 및 적용 결정을 필요로 합니다.\n\n§Y재무장의 기간 및 £command_power 비용은 다음에 의존함:\n§G군수공장: [?num_of_military_factories]§!\n§R사단의 수: [?num_divisions]§!"
+ 
+ ####Artillery
+ adopt_art_ammo_I_slow:0 "1세대의 점진적 채택. (포탄)"
+ adopt_art_ammo_I_fast:0 "1세대의 급진적 채택. (포탄)"
+ adopt_art_ammo_II_slow:0 "2세대의 점진적 채택. (포탄)"
+ adopt_art_ammo_II_fast:0 "2세대의 급진적 채택. (포탄)"
+ adopt_art_ammo_III_slow:0 "3세대의 점진적 채택. (포탄)"
+ adopt_art_ammo_III_fast:0 "3세대의 급진적 채택. (포탄)"
+ adopt_art_ammo_IV_slow:0 "4세대의 점진적 채택. (포탄)"
+ adopt_art_ammo_IV_fast:0 "4세대의 급진적 채택. (포탄)"
+ adopt_art_ammo_V_slow:0 "5세대의 점진적 채택. (포탄)"
+ adopt_art_ammo_V_fast:0 "5세대의 급진적 채택. (포탄)"
+ 
+ ####AntiTank
+ adopt_at_ammo_I_slow:0 "1세대의 점진적 채택. (중기관총탄)"
+ adopt_at_ammo_I_fast:0 "1세대의 급진적 채택. (중기관총탄)"
+ adopt_at_ammo_II_slow:0 "2세대의 점진적 채택. (중기관총탄)"
+ adopt_at_ammo_II_fast:0 "2세대의 급진적 채택. (중기관총탄)"
+ adopt_at_ammo_III_slow:0 "3세대의 점진적 채택. (중기관총탄)"
+ adopt_at_ammo_III_fast:0 "3세대의 급진적 채택. (중기관총탄)"
+ adopt_at_ammo_IV_slow:0 "4세대의 점진적 채택. (중기관총탄)"
+ adopt_at_ammo_IV_fast:0 "4세대의 급진적 채택. (중기관총탄)"
+ adopt_at_ammo_V_slow:0 "5세대의 점진적 채택. (중기관총탄)"
+ adopt_at_ammo_V_fast:0 "5세대의 급진적 채택. (중기관총탄)"
+ 
+ ####Cannon
+ adopt_cannon_ammo_I_slow:0 "1세대의 점진적 채택. (자동기관포탄)"
+ adopt_cannon_ammo_I_fast:0 "1세대의 급진적 채택. (자동기관포탄)"
+ adopt_cannon_ammo_II_slow:0 "2세대의 점진적 채택. (자동기관포탄)"
+ adopt_cannon_ammo_II_fast:0 "2세대의 급진적 채택. (자동기관포탄)"
+ adopt_cannon_ammo_III_slow:0 "3세대의 점진적 채택. (자동기관포탄)"
+ adopt_cannon_ammo_III_fast:0 "3세대의 급진적 채택. (자동기관포탄)"
+ adopt_cannon_ammo_IV_slow:0 "4세대의 점진적 채택. (자동기관포탄)"
+ adopt_cannon_ammo_IV_fast:0 "4세대의 급진적 채택. (자동기관포탄)"
+ adopt_cannon_ammo_V_slow:0 "5세대의 점진적 채택. (자동기관포탄)"
+ adopt_cannon_ammo_V_fast:0 "5세대의 급진적 채택. (자동기관포탄)"
+ 
+ ####MANPAT
+ adopt_manpat_I_slow:0 "1세대의 점진적 채택 (보병대전차화기)"
+ adopt_manpat_I_fast:0 "1세대의 급진적 채택 (보병대전차화기)"
+ adopt_manpat_II_slow:0 "2세대의 점진적 채택 (보병대전차화기)"
+ adopt_manpat_II_fast:0 "2세대의 급진적 채택 (보병대전차화기)"
+ adopt_manpat_III_slow:0 "3세대의 점진적 채택 (보병대전차화기)"
+ adopt_manpat_III_fast:0 "3세대의 급진적 채택 (보병대전차화기)"
+ adopt_manpat_IV_slow:0 "4세대의 점진적 채택 (보병대전차화기)"
+ adopt_manpat_IV_fast:0 "4세대의 급진적 채택 (보병대전차화기)"
+ adopt_manpat_V_slow:0 "5세대의 점진적 채택 (보병대전차화기)"
+ adopt_manpat_V_fast:0 "5세대의 급진적 채택 (보병대전차화기)"
+ 
+ ####Protection Gear
+ adopt_pt_gear_I_slow:0 "1세대의 점진적 채택. (보호장비)"
+ adopt_pt_gear_I_fast:0 "1세대의 급진적 채택. (보호장비)"
+ adopt_pt_gear_II_slow:0 "2세대의 점진적 채택. (보호장비)"
+ adopt_pt_gear_II_fast:0 "2세대의 급진적 채택. (보호장비)"
+ adopt_pt_gear_III_slow:0 "3세대의 점진적 채택. (보호장비)"
+ adopt_pt_gear_III_fast:0 "3세대의 급진적 채택. (보호장비)"
+ adopt_pt_gear_IV_slow:0 "4세대의 점진적 채택. (보호장비)"
+ adopt_pt_gear_IV_fast:0 "4세대의 급진적 채택. (보호장비)"
+ adopt_pt_gear_V_slow:0 "5세대의 점진적 채택. (보호장비)"
+ adopt_pt_gear_V_fast:0 "5세대의 급진적 채택. (보호장비)"
+ 
+ ####MANPAD
+ adopt_manpad_I_slow:0 "1세대의 점진적 채택. (보병대공화기)"
+ adopt_manpad_I_fast:0 "1세대의 급진적 채택. (보병대공화기)"
+ adopt_manpad_II_slow:0 "2세대의 점진적 채택. (보병대공화기)"
+ adopt_manpad_II_fast:0 "2세대의 급진적 채택. (보병대공화기)"
+ adopt_manpad_III_slow:0 "3세대의 점진적 채택. (보병대공화기)"
+ adopt_manpad_III_fast:0 "3세대의 급진적 채택. (보병대공화기)"
+ adopt_manpad_IV_slow:0 "4세대의 점진적 채택. (보병대공화기)"
+ adopt_manpad_IV_fast:0 "4세대의 급진적 채택. (보병대공화기)"
+ adopt_manpad_V_slow:0 "5세대의 점진적 채택. (보병대공화기)"
+ adopt_manpad_V_fast:0 "5세대의 급진적 채택. (보병대공화기)"
+ 
+ ####Variable Calculation
+ variables_calculation_category_desc:0 "각종 계산과 체크가 여기서 진행되고 있습니다. 이 것들은 단순히 모드가 구동되기 위해 필요한 사항일 뿐이니 무시하고 게임을 즐기십시오."
+ variables_calculation_category:0 "성능 및 변수 계산(무시)"
+ variable_Calc_initial:0 "명령 계산"
+ TUTOR.666.t:0 "§R바티칸으로 플레이하지 마십시오§!"
+ TUTOR.666.d:0 "§R바티칸은 결정을 내리고 배후에서 경기를 통제하기 위한 글로벌 허브로 모드에서 의도한 국가입니다. 바티칸으로 플레이하는 것은 충돌, 오류, 버그, 그리고 일반적으로 게임을 전혀 진행시키지 못하게 할 것입니다.§!"
+ TUTOR.666.a:0 "알았어, 젠장! 진정해. 게임을 이미 망쳤으니 다시 시작하도록 하지."
+ 
+ ####stuff cost
+ AM_CP:0 "£command_power [?command_cost_p|R0]"
+ AM_CP_blocked:0 "£command_power [?command_cost_p|R0]"
+ 
+ agriculture_moderniazation:0 "Agricultural Modernization"
+ agriculture_moderniazation_desc:0 ""

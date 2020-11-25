@@ -2653,15 +2653,15 @@
  TUTOR_military_desc:0 "Current Tutorial: §GMilitary§!"
  TUTOR_politics_desc:0 "Current Tutorial: §GPolitics§!"
  #EVENTS#
- TUTOR.0.t:0 "CWIC Tutorial"
- TUTOR.0.d:0 "Would you like to enable the tutorial/mod information decisions? You can close them at any time."
- TUTOR.0.a:0 "Enable Tutorial"
- TUTOR.0.b:0 "No Thanks"
+ TUTOR.0.t:0 "CWIC 튜토리얼"
+ TUTOR.0.d:0 "튜토리얼/모드 정보에 대한 결정을 활성화 하시겠습니까? 언제든 닫을수 있습니다."
+ TUTOR.0.a:0 "튜토리얼 활성화"
+ TUTOR.0.b:0 "아니요, 괜찮습니다"
  
- TUTOR.1.t:0 "CWIC Tutorial"
- TUTOR.1.d:0 "Would you like to disable the tutorial/mod information decisions? You can reenable it by firing "event TUTOR.0" in the console (without quotes)."
- TUTOR.1.a:0 "Disable Tutorial"
- TUTOR.1.b:0 "No Thanks"
+ TUTOR.1.t:0 "CWIC 튜토리얼"
+ TUTOR.1.d:0 "튜토리얼/모드 정보에 대한 결정을 활성화 하시겠습니까? 당신은 따옴표 없이 콘솔에서 \"event TUTOR.0\"를 입력하여 다시 활성화 할수 있습니다."
+ TUTOR.1.a:0 "튜토리얼 비활성화"
+ TUTOR.1.b:0 "아니요, 괜찮습니다"
  
  TUTOR_starting_templates:0 "§YExample Templates§!"
  TUTOR.10.t:0 "Example Templates"

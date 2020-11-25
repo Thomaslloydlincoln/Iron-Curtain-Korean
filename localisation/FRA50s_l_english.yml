@@ -215,9 +215,9 @@
  ### Focus 49-51 ###
  ######################
  
- FRA_Ratify_The_Atlantic_Pact:0 "Ratify the Atlantic Pact"
- FRA_Form_Anti_gangs_Police:0 "Form Anti-Gangs Police"
- FRA_End_Rationing_System:0 "End Rationing System"
+ FRA_Ratify_The_Atlantic_Pact:0 "북대서양 조약 비준"
+ FRA_Form_Anti_gangs_Police:0 "반범죄조직 경찰 조직"
+ FRA_End_Rationing_System:0 "배급제 종료"
  FRA_Recognize_Cambodgian_Independence:0 "End The Protectorate Over Laos and Cambodia"
  FRA_Create_The_SMIG:0 "Create The SMIG"
  FRA_Pass_Fiscal_Reform:0 "Pass Fiscal Reforms"
@@ -235,18 +235,18 @@
  ### Ideas 49-51 ###
  #######################
  
- FRA_Reconstruction:0 "Reconstruction"
- FRA_Reconstruction_Ended_Rations:0 "Reconstruction"
- FRA_Reconstruction_Fiscal_Reform:0 "Reconstruction"
- FRA_Reconstruction_Housing_Reform:0 "Reconstruction"
- FRA_Reconstruction_Budget_Reorganized:0 "Reconstruction"
- FRA_Reconstruction_Striking_Rights:0 "Reconstruction"
+ FRA_Reconstruction:0 "재건"
+ FRA_Reconstruction_Ended_Rations:0 "재건"
+ FRA_Reconstruction_Fiscal_Reform:0 "재건"
+ FRA_Reconstruction_Housing_Reform:0 "재건"
+ FRA_Reconstruction_Budget_Reorganized:0 "재건"
+ FRA_Reconstruction_Striking_Rights:0 "재건"
  
  ######################################
  ### Focus 53 Elections ###
  ###################################### 
 
- FRA_1953_Presidential:0 "1953 Presidential Elections"
+ FRA_1953_Presidential:0 "1953 대통령 선거"
  FRA_1953_Presidential_desc:0 ""
  FRA_RPF_1953:0 "RPF Victory"
  FRA_RPF_1953_desc:0 ""

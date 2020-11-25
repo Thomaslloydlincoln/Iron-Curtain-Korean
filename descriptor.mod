@@ -3,7 +3,6 @@ tags={
 	"Translation"
 }
 dependencies={
-	"Korean Language (Europa)"
 	"Cold War Iron Curtain: A World Divided"
 }
 name="Cold War Iron Curtain: A World Divided Korean Translation"

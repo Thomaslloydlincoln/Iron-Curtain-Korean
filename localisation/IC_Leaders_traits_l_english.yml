@@ -86,16 +86,16 @@
  Lack_of_Interestin_for_Econ:0 "Lack of Interest in Economic Affairs"
  ####KOREA LEADERS TRAITS####
  ###RHEE###
- Corrupted_Ways:0 "부패한 방식 고수"
- Ruthless_Tyrant:0 "무자비한 폭군"
- Fierce_Anti_Communist:0 "맹렬한 반공주의자"
- Capitalist_Modernizer:0 "현대적 자본주의자"
+ Corrupted_Ways:0 "Corrupted Ways"
+ Ruthless_Tyrant:0 "Ruthless Tyrant"
+ Fierce_Anti_Communist:0 "Fierce Anti Communist"
+ Capitalist_Modernizer:0 "Capitalist Modernizer"
  ###KIMILSUNG###
- Supreme_Commander:0 "조선인민군 최고사령관"
- Great_Leader:0 "위대한 주석"
- Juche_Theorist:0 "주체사상가"
- General_Secretary_Worker_Party_Korea:0 "조선로동당 총서기"
- Megalomaniac_Ideologue:0 "과대망상에 빠진 사상가"
+ Supreme_Commander:0 "Supreme Commander of the Korean People`s Army"
+ Great_Leader:0 "Great Leader"
+ Juche_Theorist:0 "Juche Theorist"
+ General_Secretary_Worker_Party_Korea:0 "General Secretary of the Worker`s Party of Korea"
+ Megalomaniac_Ideologue:0 "Megalomaniac Ideologue"
  ####YUGOSLAVIA LEADERS TRAITS####
  ###TITO###
  Non_Aligned_Figurehead:0 "Non-Aligned Figurehead"
@@ -210,6 +210,7 @@
  promoter_of_liberty:0 "Promoter of Liberty"
  #generic governor traits
  colonial_governor:0 "Colonial Governor"
+ reformist_colonial_governor:0 "Reformist Colonial Governor"
  #Fulburt Yulou
  roman_catholic_preist:0 "Roman Catholic Priest"
  quintessential_afro_francophile:0 "Quintessential Afro-Francophile"
